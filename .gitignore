@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.env
+app/reservas.db
+.DS_Store
