@@ -84,7 +84,7 @@ Para rodar o projeto na sua máquina, você precisa ter instalado:
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO_AQUI
+git clone https://github.com/Camillaherreraa/labreserva.git
 ```
 
 Depois entre na pasta do projeto:
