@@ -1,6 +1,6 @@
 # LabReserva
 
-[![Docker Build CI](https://github.com/Camillaherreraa/labreserva/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Camillaherreraa/labreserva/actions/workflows/docker-build.yml)
+[![Docker Build CI](https://github.com/Joaopcl03/devops/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Joaopcl03/devops/actions/workflows/docker-build.yml)
 
 Sistema web para reserva de laboratórios acadêmicos.
 
